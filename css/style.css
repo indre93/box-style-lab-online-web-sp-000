@@ -63,3 +63,16 @@ img {
   border: 1px solid;
   box-sizing: border-box;
 }
+
+.greengrad {
+  background: linear-gradient(to right, black, .5%, #44cc66)
+}
+
+.yellowgrad {
+  background: linear-gradient(to right, black, .5%, #44cc66)
+}
+
+.redgrad {
+  background: linear-gradient(to right, black, .5%, #44cc66)
+}
+
