@@ -64,6 +64,6 @@ img {
   box-sizing: border-box;
 }
 
-#amiable {
+h4#amiable {
   background: linear-gradient(to left, 200%, 50%)
 }
