@@ -23,7 +23,6 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
-  background: linear-gradient(to left, 200%, 50%)
 }
 
 .amiable {
@@ -64,4 +63,7 @@ img {
   border: 1px solid;
   box-sizing: border-box;
 }
-800000
+
+#amiable {
+  background: linear-gradient(to left, 200%, 50%)
+}
