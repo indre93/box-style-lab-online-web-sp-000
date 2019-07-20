@@ -23,7 +23,7 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
-  background: linear-gradient(to left, #22 0%, #22aa44 80%)
+  background: linear-gradient(to left, #22aa44 0%, #22 80%)
 }
 
 .amiable {
